@@ -1,0 +1,4 @@
+*.o
+*.log
+.venv/
+__pycache__/
